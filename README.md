@@ -13,6 +13,10 @@
 
 Hi, I'm Adraino Bianchi Crosoletto, a passionate self-taught frontEnd web developer from Brazil.
 
+- 🌱 I’m currently learning [Java, JavaScript, HTML, CSS, Typescript]
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/adrianocros/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/adrianocros/adrianocros/issues)
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/9498015201540553614.svg"></code>
