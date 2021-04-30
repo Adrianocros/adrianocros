@@ -2,6 +2,7 @@
 <a href="">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://github.com/Adrianocros/assets/blob/main/15127123631579517835.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/adriano-bianchi-crosoletto-79779897/">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://github.com/Adrianocros/assets/blob/main/9310175861530099327.svg" />
 </a>
