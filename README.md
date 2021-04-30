@@ -13,9 +13,6 @@
 
 Hi, I'm Adraino Bianchi Crosoletto, a passionate self-taught frontEnd web developer from Brazil.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianocros&layout=compact&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocros)](https://github.com/anuraghazra/github-readme-stats)
-
 **Languages and Tools:**  
 
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/9498015201540553614.svg"></code>
@@ -23,5 +20,15 @@ Hi, I'm Adraino Bianchi Crosoletto, a passionate self-taught frontEnd web develo
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/13691885491579517854.svg"></code>
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/8609334331551942134.svg"></code>
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/2843192311536211769.svg"></code>    
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/adrianocros/github-readme-stats)*
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adrianocros&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adrianocros&layout=compact&theme=material-palenight" />
+</a>
 
 
