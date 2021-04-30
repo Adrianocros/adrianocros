@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [AdrianoCros!](#) 
+## Hi there, I'm [AdrianoCros!](#) 👋
 <a href="#">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://github.com/Adrianocros/assets/blob/main/15127123631579517835.svg" />
 </a>
