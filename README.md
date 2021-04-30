@@ -27,10 +27,11 @@ Hi, I'm Adraino Bianchi Crosoletto, a passionate self-taught frontEnd web develo
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/adrianocros/github-readme-stats)*
 
-<a>
+
+ <a href="#">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adrianocros&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a>
+<a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adrianocros&layout=compact&theme=material-palenight" />
 </a>
