@@ -1,6 +1,6 @@
 ## Hi there, I'm [AdrianoCros!](#) 👋
 <a href="https://www.linkedin.com/in/adriano-bianchi-crosoletto-79779897/">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="28px" src="https://github.com/Adrianocros/assets/blob/main/Linkedin.png" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="26px" src="https://github.com/Adrianocros/assets/blob/main/Linkedin.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/adriano-bianchi-crosoletto-79779897/">
