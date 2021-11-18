@@ -18,7 +18,6 @@
 - 💬 Ask me about anything [here](https://github.com/adrianocros/adrianocros/issues)
 
 **Languages and Tools:**  
-<code><src="https://github.com/Adrianocros/assets/blob/main/Linkedin.png"></code>
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/Java.png"></code>
 <code><img height="28" src="https://github.com/Adrianocros/assets/blob/main/spring.png"></code>
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/Python.png"></code>
