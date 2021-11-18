@@ -17,11 +17,12 @@
 
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/Java.png"></code>
 <code><img height="28" src="https://github.com/Adrianocros/assets/blob/main/spring.png"></code>
-<code><img height="33" src="https://github.com/Adrianocros/assets/blob/main/NodeJS.png"></code>
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/Python.png"></code>
+<code><img height="33" src="https://github.com/Adrianocros/assets/blob/main/NodeJS.png"></code>
 <code><img height="35" src="https://github.com/Adrianocros/assets/blob/main/SQL.png"></code> 
-<code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/8347720961540553611.svg"></code> 
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/8609334331551942134.svg"></code>
+<code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/8347720961540553611.svg"></code>   
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](#)*
 
