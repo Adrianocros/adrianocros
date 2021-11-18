@@ -1,10 +1,10 @@
 ## Hi there, I'm [AdrianoCros!](#) 👋
 <a href="https://www.linkedin.com/in/adriano-bianchi-crosoletto-79779897/">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="26px" src="https://github.com/Adrianocros/assets/blob/main/Linkedin.png" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox"  height="20px" width="26px" src="https://github.com/Adrianocros/assets/blob/main/Linkedin.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/adriano-bianchi-crosoletto-79779897/">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="26px" src="https://github.com/Adrianocros/assets/blob/main/Discord.png" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" heigth="10px"  width="26px" src="https://github.com/Adrianocros/assets/blob/main/Discord.png" />
 </a>
 
 
