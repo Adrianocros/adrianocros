@@ -14,6 +14,7 @@
 ### Adriano Bianchi Crosoletto, a passionate self-taught frontEnd web developer from Brazil.
 
 - 🌱 I’m currently learning [Java,Python,SQL,PHP]
+- 📝 Write once, Run anywhere
 - 👯 I’m looking to collaborate on [Github Readme Stats](#)
 - 💬 Ask me about anything [here](https://github.com/adrianocros/adrianocros/issues)
 
