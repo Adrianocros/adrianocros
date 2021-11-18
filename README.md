@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/adriano-bianchi-crosoletto-79779897/">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="31px" src="https://github.com/Adrianocros/assets/blob/main/Discord.png" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="26px" src="https://github.com/Adrianocros/assets/blob/main/Discord.png" />
 </a>
 
 
