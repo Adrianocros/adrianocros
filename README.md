@@ -17,9 +17,6 @@
 
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/9498015201540553614.svg"></code>
 <code><img height="28" src="https://github.com/Adrianocros/assets/blob/main/spring.png"></code>
-<code><img height="33" src="https://github.com/Adrianocros/assets/blob/main/7078554321548141949.svg"></code>
-<code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/13691885491579517854.svg"></code>
-<code><img height="35" src="https://github.com/Adrianocros/assets/blob/main/2843192311536211769.svg"></code> 
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/8347720961540553611.svg"></code> 
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/8609334331551942134.svg"></code>
    
