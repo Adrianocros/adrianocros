@@ -17,6 +17,7 @@
 - ⚙️Write once, Run anywhere
 - 👯 I’m looking to collaborate on [Github Readme Stats](#)
 - 💬 Ask me about anything [here](https://github.com/adrianocros/adrianocros/issues)
+- I Never lose, I Either Win or Learn.
 
 **Languages and Tools:**  
 <code><img height="30" src="https://github.com/Adrianocros/assets/blob/main/Java.png"></code>
