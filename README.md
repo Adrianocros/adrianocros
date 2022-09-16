@@ -9,7 +9,7 @@
 <br />
 
 
-- 🚀 Atualmente estou aprendendo Java | HTML | CSS | JavaScript | SQL | PHP 
+- 🚀 Atualmente estou aprendendo Java | HTML | CSS | TypeScript | SQL | PHP 
 - ⚙️Write once, Run anywhere
 - 👯 I’m looking to collaborate on [Github Readme Stats](#)
 - 🏁I Never lose, I Either Win or Learn.
