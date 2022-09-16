@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on [Github Readme Stats](#)
 - 🏁I Never lose, I Either Win or Learn.
 
-**Languages and Tools:**  
+
 <div style="display: inline_block">
 
 
