@@ -1,4 +1,4 @@
-## Eu sou, [AdrianoCros!](#) 
+## Eu sou, [Adriano Bianchi Crosoletto!](#) 
 
 
 
@@ -9,7 +9,7 @@
 <br />
 
 
-- 🚀 Atualmente estou aprendendo  HTML | CSS | TypeScript | SQL | PHP | JavaScript 
+- 🚀 Atualmente estou desenvolvendo em | HTML | CSS | TypeScript | SQL | PHP | JavaScript 
 - 🏁Eu nunca perco, eu ganho ou aprendo.
 
 
