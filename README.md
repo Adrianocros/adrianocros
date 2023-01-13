@@ -29,16 +29,7 @@
 
 <br/>
 
- <a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adrianocros&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Anurag's github stats" />
-</a>
-<a href="#">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adrianocros&layout=compact&theme=highcontrast" />
-</a>
 
-<br/>
-<br/>
 
 
 
