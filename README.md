@@ -10,7 +10,7 @@
 
 
 - 🚀 Atualmente estou desenvolvendo em | HTML | CSS | TypeScript | SQL | PHP | JavaScript 
-- 🏁Eu nunca perco, eu ganho ou aprendo.
+- 🏁 Eu nunca perco, ou ganho ou aprendo.
 
 
 <div style="display: inline_block">
