@@ -9,18 +9,14 @@
 <br />
 
 
-- 🚀 Atualmente estou aprendendo Java | HTML | CSS | TypeScript | SQL | PHP 
-- ⚙️Write once, Run anywhere
-- 👯 I’m looking to collaborate on [Github Readme Stats](#)
-- 🏁I Never lose, I Either Win or Learn.
+- 🚀 Atualmente estou aprendendo  HTML | CSS | TypeScript | SQL | PHP | JavaScript 
+- 🏁Eu nunca perco, eu ganho ou aprendo.
 
 
 <div style="display: inline_block">
 
 
 
-<img align="center" alt="Adriano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Adriano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adriano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
