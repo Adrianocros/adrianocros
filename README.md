@@ -17,12 +17,19 @@
 
 
 
-  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adriano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+| HTML | CSS | Java | JavaScript |  QA | Test Automation | Selenium
+
+
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Adriano-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+
+   <img align="center" alt="Adriano-Java" height="30" width="40" 
+src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  
 <img align="center" alt="Adriano-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
