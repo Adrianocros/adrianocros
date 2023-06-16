@@ -9,7 +9,7 @@
 <br />
 
 
-- 🚀 Atualmente estou desenvolvendo em | HTML | CSS | TypeScript | SQL | PHP | JavaScript 
+- 🚀 Atualmente estou desenvolvendo em | HTML | CSS | TypeScript | SQL | Java | JavaScript |  QA | Test Automation | Selenium
 - 🏁 Eu nunca perco, ou ganho ou aprendo.
 
 
