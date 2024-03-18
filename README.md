@@ -9,7 +9,7 @@
 <br />
 
 
-- 🚀 ADVPL | SQL | API | HTML | CSS | JavaScript 
+- 🚀 ADVPL | TL++ | SQL | API | HTML | CSS | JavaScript 
 - 🏁 Eu nunca perco, ou ganho ou aprendo.
 
 
