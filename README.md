@@ -9,7 +9,7 @@
 <br />
 
 
-- 🚀 HTML | CSS | JavaScript | Java | QA - Test Automation | Selenium
+- 🚀 ADVPL | SQL | API | HTML | CSS | JavaScript 
 - 🏁 Eu nunca perco, ou ganho ou aprendo.
 
 
