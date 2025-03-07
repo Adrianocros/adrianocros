@@ -9,7 +9,7 @@
 <br />
 
 
-- 🚀 ADVPL | TL++ | SQL | API | HTML | CSS | JavaScript 
+- 🚀  SQL | Node.js | API | HTML | CSS | JavaScript | React.js | jQuery | SASS | Vue.js | FastAPI |
 - 🏁 Eu nunca perco, ou ganho ou aprendo.
 
 
